@@ -1,4 +1,4 @@
-# rapymusic
+# Rapy Music
 Free Open Source Discord Music Bot
 ## Setting Up
 
